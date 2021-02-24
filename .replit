@@ -1,0 +1,2 @@
+language = "bash"
+run = "chmod 777 runprogram.sh && ./runprogram.sh"
